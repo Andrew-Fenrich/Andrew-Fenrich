@@ -5,6 +5,10 @@
 Hi, I am Andrew. I am a Web Developer, Commercial Pilot and general lover of technology.<br/>
 I am interested in developing productivity 📌 and aviation ✈️ related web-applications.
 
+* Interests
+     * Item 1
+     * Item 2 
+
 ### Technologies & Tools
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blue)
@@ -20,7 +24,7 @@ I am interested in developing productivity 📌 and aviation ✈️ related web-
 ### Find me on LinkedIn 
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-fenrich)
 
- 
+
 
 
 
