@@ -8,7 +8,7 @@ I am interested in developing productivity 📌 and aviation ✈️ related web-
 ### Technologies & Tools
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blue)
-![](https://img.shields.io/badge/-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
+![](https://img.shields.io/badge/_-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=blue)<br/>
