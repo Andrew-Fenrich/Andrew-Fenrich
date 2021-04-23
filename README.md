@@ -1,5 +1,7 @@
+
 ### Hi there 👋, I'm Andrew
 
+![AndrewFenrichGitHubBanner](https://user-images.githubusercontent.com/77979565/115817530-04402a00-a3c9-11eb-8e43-405ee0aa3415.PNG)
 
 <!--
 **Andrew-Fenrich/Andrew-Fenrich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
