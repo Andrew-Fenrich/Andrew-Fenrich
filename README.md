@@ -4,8 +4,8 @@
 
 Hi, I am Andrew. I am a Web Developer, Commercial Pilot and general lover of technology. 
 
-I am interested in developing productivity![image](https://user-images.githubusercontent.com/77979565/115884268-b5bc7b00-a41c-11eb-96dd-1ddd3a3a41de.png)
- and aviation related web-applications.
+I am interested in developing productivity 📊
+ and aviation ✈️ related web-applications.
 
 #### Technologies & Tools
 
