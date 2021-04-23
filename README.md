@@ -19,7 +19,7 @@ I am interested in developing productivity 📌
 ![](https://img.shields.io/badge/Tool-MatLab-informational?style=flat&logo=Mathworks&logoColor=white&color=blue)
 
 ### Find me around the Web
-![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color= #0A66C2)
+![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=darkblue)
 
  
 
