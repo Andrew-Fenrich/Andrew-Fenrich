@@ -2,10 +2,8 @@
 
 ### About Me
 
-Hi, I am Andrew. I am a Web Developer, Commercial Pilot and general lover of technology. 
-
-I am interested in developing productivity 📌
- and aviation ✈️ related web-applications.
+Hi, I am Andrew. I am a Web Developer, Commercial Pilot and general lover of technology.<br/>
+I am interested in developing productivity 📌 and aviation ✈️ related web-applications.
 
 ### Technologies & Tools
 
