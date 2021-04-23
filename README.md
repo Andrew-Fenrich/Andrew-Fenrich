@@ -17,7 +17,8 @@ I am interested in developing productivity 📌 and aviation ✈️ related web-
 ![](https://img.shields.io/badge/Data_Base-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-MatLab-informational?style=flat&logo=Mathworks&logoColor=white&color=blue)
 
-### Find me on [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-fenrich)
+### Find me on LinkedIn 
+[![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-fenrich)
 
  
 
