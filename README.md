@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Data Base-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Data_Base-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=blue)
 
 
 
