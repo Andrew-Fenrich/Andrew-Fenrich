@@ -3,7 +3,8 @@
 
 ![AndrewFenrichGitHubBanner](https://user-images.githubusercontent.com/77979565/115817530-04402a00-a3c9-11eb-8e43-405ee0aa3415.PNG)
 
-
+![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=blue)
 
