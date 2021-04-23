@@ -1,5 +1,10 @@
 ![AndrewFenrichGitHubBanner](https://user-images.githubusercontent.com/77979565/115817530-04402a00-a3c9-11eb-8e43-405ee0aa3415.PNG)
 
+###About Me
+
+Hi, I am Andrew. I am a Web Developer, Commercial Pilot and general lover of technology. 
+I am interested in developing productivity and aviation related web-applications.
+
 #### Technologies & Tools
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blue)
