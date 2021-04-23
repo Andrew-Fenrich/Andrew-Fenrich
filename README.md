@@ -3,7 +3,7 @@
 
 ![AndrewFenrichGitHubBanner](https://user-images.githubusercontent.com/77979565/115817530-04402a00-a3c9-11eb-8e43-405ee0aa3415.PNG)
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 
 
 <!--
