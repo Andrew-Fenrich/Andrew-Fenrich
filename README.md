@@ -7,7 +7,7 @@ Hi, I am Andrew. I am a Web Developer, Commercial Pilot and general lover of tec
 I am interested in developing productivity 📌
  and aviation ✈️ related web-applications.
 
-#### Technologies & Tools
+### Technologies & Tools
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=React&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=blue)
@@ -17,6 +17,10 @@ I am interested in developing productivity 📌
 ![](https://img.shields.io/badge/Code-Express.js-informational?style=flat&logo=Express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Data_Base-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Tool-MatLab-informational?style=flat&logo=Mathworks&logoColor=white&color=blue)
+
+### Find me around the Web
+
+ :LinkedIn:
 
 
 
