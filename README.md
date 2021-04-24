@@ -26,7 +26,7 @@ I am interested in developing productivity 📌 and aviation ✈️ related web-
 ### Find me on LinkedIn 
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-fenrich)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrew-Fenrich)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
