@@ -4,8 +4,8 @@
 
 Hi, I am Andrew. I am a Web Developer, Commercial Pilot and general lover of technology.<br/>
 I am interested in developing productivity 📌 and aviation ✈️ related web-applications.
+#### Interests
 
-* Interests
      * [x] Supporting [Shriners Hospitals for Children Canada](https://www.shrinershospitalsforchildren.org/montreal)
      * [x] Gardening 🌻 and all things horticultural
      * [x] Maker Projects
