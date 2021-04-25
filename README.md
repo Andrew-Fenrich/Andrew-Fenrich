@@ -9,7 +9,7 @@ I am interested in developing productivity 📌 and aviation ✈️ related web-
 
   * [x] Supporting [Shriners Hospitals for Children Canada](https://www.shrinershospitalsforchildren.org/montreal)  
   * [x] Gardening 🌻 and all things horticultural
-  * [x] Maker Projects
+  * [x] Maker projects
   * [x] Flying! 
 
 ### Technologies & Tools
