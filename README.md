@@ -22,7 +22,7 @@ I am interested in developing productivity 📌 and aviation ✈️ related web-
 ![](https://img.shields.io/badge/Framework-Express.js-informational?style=flat&logo=Express&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Data_base-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-Firestore-informational?style=flat&logo=Firebase&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Design-System-Material-Design-informational?style=flat&logo=MaterialDesign&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Design_System-Material_Design-informational?style=flat&logo=MaterialDesign&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-.Net-informational?style=flat&logo=dotNET&logoColor=white&color=blue)
 
 ### Find me on LinkedIn 
