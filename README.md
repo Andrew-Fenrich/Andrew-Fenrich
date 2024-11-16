@@ -24,9 +24,10 @@ I am interested in developing productivity 📌, financial 📈, and aviation �
 ![](https://img.shields.io/badge/Cloud-Firestore-informational?style=flat&logo=Firebase&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Framework-.Net-informational?style=flat&logo=dotNET&logoColor=white&color=blue)
 
+<!--
 ### Find me on LinkedIn 
 [![](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=LinkedIn&logoColor=white&color=blue)](https://www.linkedin.com/in/andrew-fenrich)
-
+-->
 
 
 
